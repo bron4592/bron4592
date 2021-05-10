@@ -2,15 +2,15 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studied Computer Science and Business at the University of Colorado Boulder.
-- 💼 &nbsp; Software Engineer
+- 💼 &nbsp; Full Stack Software Engineer
 - 🌱 &nbsp; Passionate about Continuous Learning.
 - 🔭 &nbsp; Love of travel and exploration of the outdoors.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++  
-- 🌐 &nbsp; MacOS | Linux | Windows
+- 💻 &nbsp; Java | Python | C++ | Html/CSS 
+- 🌐 &nbsp; Spring Boot | Django
 - 🛢 &nbsp; MySQL | Postgres | AWS
 - 🔧 &nbsp; Intelij | PyCharm | Visual Studio code | Sublime | Git
 
