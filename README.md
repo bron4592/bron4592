@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Brandon O'Neill 👨‍💻 </h1>
 
-<!--
-**bron4592/bron4592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  Tech Enthusiast | Software Engineer </h3> <br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+<a href="https://www.linkedin.com/in/brandon-o-neill-43a38511a/"><img alt="LinkedIn"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Working :**  Web Development :computer: | Cloud :cloud: 
+-  **Learning :** Full-Stack :zap: | Open-Source :fire:	
+-  **Hobbies :** Books :books: | Music :headphones:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bron4592" alt="bron4592" /> </p>
+
+### 📊 Profile stats
+
+[![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=bron4592&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/bron4592/github-readme-stats)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
