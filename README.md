@@ -3,16 +3,6 @@
 
 - 🎓 &nbsp; Studied Computer Science and Business at the University of Colorado Boulder.
 - 💼 &nbsp; Full Stack Software Engineer
-- 🌱 &nbsp; Passionate about Continuous Learning.
-- 🔭 &nbsp; Love of travel and exploration of the outdoors.
-
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Java | Python | C++ | Html/CSS 
-- 🌐 &nbsp; Spring Boot | Django
-- 🛢 &nbsp; MySQL | Postgres | AWS
-- 🔧 &nbsp; Intelij | PyCharm | Visual Studio code | Sublime | Git
 
 <br>
 
